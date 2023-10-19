@@ -2,27 +2,23 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package proyecto01;
+package proyecto02;
 
 /**
  *
  * @author LAB.ELECT
  */
-public class Proyecto01 {
+public class Proyecto02 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Ejemplo básico de Java Versionado a través de Git Manejado desde GitHub");
-        System.out.println("Ejemplo de Java\n" +
-"Manejado desde GitHub\n" +
+        System.out.println("Ejemplo dos básico de Java\n" +
 "Versionado a través de Git\n" +
-"Creado por <ubicar su usuario de github>");
-        
-        
-        
+"Manejado desde GitHub\n" +
+"Además se usar GitHubClassroom");
         
     }
     
